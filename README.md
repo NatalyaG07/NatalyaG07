@@ -13,6 +13,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyaG07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NatalyaG07/NatalyaG07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
